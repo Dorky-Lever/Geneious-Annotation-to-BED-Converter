@@ -1,0 +1,5 @@
+track name="ZIC2 3'UTR DHS" description="DNAseI hypersensitive sites within the ZIC2 3'UTR" visibility=3 color=203,97,91,
+chr13	99986452	99986600	DnaseI HS 4
+chr13	99986286	99986435	DHS3
+chr13	99985906	99986057	DHS 2
+chr13	99985640	99985781	DnaseI HS 1
